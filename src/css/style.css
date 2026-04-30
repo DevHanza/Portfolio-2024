@@ -1233,11 +1233,6 @@ footer .svg-icon:hover {
   .md\:opacity-100 {
     opacity: 1;
   }
-
-  .md\:before\:hidden::before {
-    content: var(--tw-content);
-    display: none;
-  }
 }
 
 @media (min-width: 1024px) {
